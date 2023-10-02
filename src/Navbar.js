@@ -12,13 +12,13 @@ class Navbar extends Component {
                         <Link
                             to={'/'}
                             className='logo'>
-                            <img src={logo} className="App-logo" alt="logo" /> <h2>nverter</h2>
+                            <img src={logo} className="App-logo" alt="logo" /> <h2>NebulaX Video Converter</h2>
                         </Link>
 
                         <Link
                             to={'/encodes'}
                             className='button'>
-                            Encode History
+                            History
                         </Link>
                     </div>
                 </header>
